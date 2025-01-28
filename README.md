@@ -25,7 +25,7 @@ This project is a facial attendance system that uses React with TypeScript for t
 
    ```bash
    cd project_folder
-   npm install -r reqs.txt
+   npm install -r requirements.txt
    ```
 
 3. **Run the frontend**:
@@ -46,7 +46,7 @@ This project is a facial attendance system that uses React with TypeScript for t
 
    ```bash
    cd backend
-   pip install -r reqs.txt
+   pip install -r requirements.txt
    ```
 
 2. **Set up the database**:
