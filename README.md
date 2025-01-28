@@ -37,7 +37,7 @@ This project is a facial attendance system that uses React with TypeScript for t
    npm run dev
    ```
 
-   The frontend should now be running, typically accessible at `http://localhost:5714`.
+   The frontend should now be running, typically accessible at `http://localhost:5713`.
 
 ### Backend Setup (Python Flask)
 
