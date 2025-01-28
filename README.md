@@ -25,6 +25,7 @@ This project is a facial attendance system that uses React with TypeScript for t
 
    ```bash
    cd project_folder
+   npm install
    npm install -r requirements.txt
    ```
 
